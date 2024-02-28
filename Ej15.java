@@ -9,7 +9,7 @@ public class Ej15 {
         if (año <= 2005 && año > 1920){
             System.out.println("La persona es mayor de edad");
         }else{
-            if(año >= 2005 && año < 2024){
+            if(año > 2005 && año < 2024){
                 System.out.println("La persona es menor de edad");
             }else{
                 System.out.println("La persona esta muerta... ");
