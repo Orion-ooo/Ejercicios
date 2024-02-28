@@ -10,6 +10,7 @@ public class Ej8 {
 
         double resto = dividendo % divisor;
         System.out.println("El resto de la división es: " + resto);
+        entrada.close();
     }
     
 }
