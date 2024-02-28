@@ -19,5 +19,6 @@ public class Ej13 {
         System.out.println("Los ultimos digitos de la segunda cifra son: " + resultCifra2);
         System.out.println("Los ultimos digitos de la tercera cifra son: " + resultCifra3);
 
+        entrada.close();
     }
 }
