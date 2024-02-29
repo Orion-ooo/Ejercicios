@@ -19,7 +19,7 @@ public class Ej19 {
 
         System.out.println("El suledo básico del trabajador es: $" + sueldoBasico);
         System.out.println("El descuento aplicado fue del 20%, su descuento fue: " + desc);
-        System.out.println("El monto total ganado por el trabajador fue: " + sueldoTotal);
+        System.out.println("El monto total ganado por el trabajador fue: $" + sueldoTotal);
         entrada.close();
     }
 }
