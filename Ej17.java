@@ -12,7 +12,7 @@ public class Ej17 {
             System.out.println("El número mayor es: " + n1);
         }else{
             System.out.println("El número mayor es: " + n2);
-        }
+            }
+        entrada.close();
     }
-    
 }
