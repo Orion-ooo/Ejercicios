@@ -1,5 +1,5 @@
 import java.util.Scanner;
-public class Ej26 {
+public class Ej27 {
     public static void main(String[] abc){
         Scanner entrada = new Scanner(System.in);
         System.out.println("Ingrese su nombre: ");
