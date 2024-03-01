@@ -8,7 +8,7 @@ public class Ej24 {
         double centimetros = cantPulgadas * 2.54;
 
         System.out.println("En " + cantPulgadas + " Pulgada/s hay " + centimetros + " Centimetros");
-
+        entrada.close();
     }
     
 }
