@@ -4,7 +4,6 @@ public class Ej38 {
         Scanner entrada = new Scanner(System.in);
         System.out.println("Ingrese su edad: ");
         int edad = entrada.nextInt();
-        int manzana = 4;
 
         double gramosConsumidos = edad * 8000;
         double cantManzanas = gramosConsumidos / 4;
